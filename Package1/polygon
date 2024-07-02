@@ -1,0 +1,6 @@
+package hello.abc.cde;
+public interface polygon {
+    public void calcArea();
+    public void calcPeri();
+    public void display();
+}
