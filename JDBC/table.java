@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 import db.dml;
-public class showall extends JFrame
+class showall extends JFrame
 {
 	private JTable tb1;
 	public showall()
